@@ -1,6 +1,6 @@
 ## Project information
 site_name: PNRR
-site_url: https://GBrunos.github.io/pnrr/
+site_url: https://gbrunos.github.io/pnrr/
 # site_description:
 
 ## Repository
@@ -15,7 +15,7 @@ copyright: <img src="https://img.shields.io/github/last-commit/uo-transizionedig
 
 ## Social Media
 extra:
-# manifest: "manifest.webmanifest"
+# manifest: "manifest.webmanifest" 
   disqus: mkdocs
   social:
     - icon: fontawesome/solid/file-pdf
