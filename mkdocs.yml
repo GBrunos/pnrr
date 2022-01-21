@@ -78,7 +78,7 @@ theme:
   font:
     text: Lato                            # di default = Lato
     code: Roboto Mono                     # di default = Roboto Mono
-  favicon: img/logo1.png
+  favicon: img/PNRR.png
   icon:
     repo: fontawesome/brands/github
   logo: img/PNRR.png
