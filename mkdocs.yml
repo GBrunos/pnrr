@@ -81,7 +81,7 @@ theme:
   favicon: img/logo1.png
   icon:
     repo: fontawesome/brands/github
-  logo: img/logo1.png
+  logo: img/PNRR.png
 
 ## Plugins
 plugins:
