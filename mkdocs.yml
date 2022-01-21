@@ -1,7 +1,7 @@
 ## Project information
-site_name: Guida al PNRR - Dip. funzione pubblica Unità di missione 
+site_name: Docs PNRR - Dip. funzione pubblica Unità di missione 
 site_url: https://gbrunos.github.io/pnrr/
-# site_description:
+# site_description: tutto ciò che serve o quasi...sul PNRR!
 
 ## Repository
 # repo_name: pnrr
@@ -18,25 +18,22 @@ extra:
   disqus: mkdocs
   social:
     - icon: fontawesome/solid/file-pdf
-      link: https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/print_page/
+      link: https://gbrunos.github.io/pnrr/print_page/
       name: Scarica il documento in formato PDF
     - icon: octicons/comment-discussion-16
-      link: https://github.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi/discussions
-      name: Forum sulla mappatura dei procedimenti amministrativi
-    - icon: fontawesome/brands/twitter
-      link: http://twitter.com/cirospat
-      name: account Twitter
+      link: https://gbrunos.github.io/pnrr/discussions
+      name: Forum sul PNRR Dip.FP
     - icon: fontawesome/brands/medium
-      link: https://cirospat.medium.com/
+      link: https://medium.com/@gaetanobruno
       name: account Medium
     - icon: fontawesome/brands/github
-      link: https://github.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi
+      link: https://https://github.com/GBrunos/pnrr
       name: Repoisitory GitHub
     - icon: fontawesome/solid/envelope
-      link: mailto:g.spataro@comune.palermo.it
-      name: mail to c.spataro@comune.palermo.it
+      link: mailto:g.bruno@funzionepubblica.it
+      name: mail to g.bruno@funzionepubblica.it
     - icon: fontawesome/solid/home
-      link: https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi
+      link: https://https://github.com/GBrunos/pnrr
       name: Home Page
   # analytics:
   # provider: google
@@ -68,13 +65,13 @@ theme:
   palette:
     - scheme: default
       primary: white           # setting colori = https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/#configuration
-      accent: red              # setting colori = https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/#configuration
+      accent: blue grey              # setting colori = https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/#configuration
       toggle:
         icon: material/toggle-switch
         name: Switch to dark mode
     - scheme: slate
       primary: black
-      accent: red
+      accent: blue grey
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to light mode
@@ -212,5 +209,5 @@ nav:
 
     - Strumenti: contenuti/strumenti.md
 
-    - Forum →: https://github.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi/discussions
+    - Forum →: https://gbrunos.github.io/pnrr/discussions
 
