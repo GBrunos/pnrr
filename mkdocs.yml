@@ -6,7 +6,7 @@ site_url: https://gbrunos.github.io/pnrr/
 ## Repository
 # repo_name: pnrr
 repo_url: https://gbrunos.github.io/pnrr/
-edit_uri: edit/main/docs/ #disables edit button
+edit_uri: edit/main/docs/ #disables edit button 
 
 # Copyright
 copyright: Gaetano Bruno
