@@ -7,6 +7,9 @@ hide:
 # PNRR 
 <img src="https://raw.githubusercontent.com/GBrunos/pnrr/main/docs/img/PNRR.png">
 
+**`Piano Nazionale Ripresa e Resilienza`**
+
+
 
 ## Cosa è questo progetto di documentazione :material-file-document-multiple-outline:
 Questo progetto di documentazione ha lo scopo di illustrare un metodo e un set di strumenti semplici per avviare la mappatura e analisi dei **procedimenti amministrativi** gestiti da una Pubblica Amministrazione locale, con particolare riferimento all’ente "**Comune**".
