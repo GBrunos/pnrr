@@ -1,10 +1,10 @@
 ## Project information
-site_name: Mappatura dei procedimenti amministrativi per la digitalizzazione
-site_url: https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/
+site_name: PNRR
+site_url: https://gbrunos.github.io/pnrr/
 # site_description:
 
 ## Repository
-# repo_name: mappatura-procedimenti-amministrativi
+# repo_name: pnrr
 repo_url: https://github.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi
 edit_uri: edit/main/docs/ #disables edit button
 
@@ -34,7 +34,7 @@ extra:
       link: https://github.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi
       name: Repoisitory GitHub
     - icon: fontawesome/solid/envelope
-      link: mailto:c.spataro@comune.palermo.it
+      link: mailto:g.spataro@comune.palermo.it
       name: mail to c.spataro@comune.palermo.it
     - icon: fontawesome/solid/home
       link: https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi
