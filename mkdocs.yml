@@ -1,4 +1,4 @@
-## Project information
+da## Project information
 site_name: Docs PNRR - Dip. funzione pubblica Unità di missione 
 site_url: https://gbrunos.github.io/pnrr/
 # site_description: tutto ciò che serve o quasi...sul PNRR!
@@ -179,9 +179,9 @@ nav:
     - Home: index.md
 
     - PNRR per la PA:
-        - Riforme: contenuti/esperienza-analisi.md 
-           - Semplificazione: contenuti/metadati-determinazione-deliberazione.md
-           - Lavoro pubblico: contenuti/catalogo.md
+        - Riforme: metadati.md 
+          - Semplificazione: contenuti/metadati-determinazione-deliberazione.md
+          - Lavoro pubblico: contenuti/catalogo.md
         - Investimenti: contenuti/cad.md
  
     - Schede di lettura:
