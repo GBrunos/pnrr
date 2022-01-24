@@ -178,11 +178,12 @@ extra_css:
 nav:
     - Home: index.md
 
-    - Focus giuridico:
-        - Focus giuridico sui procedimenti: contenuti/focus-giuridico.md
-        - I procedimenti amministrativi visti dal "CAD": contenuti/cad.md
+    - PNRR per la PA:
+        - Riforme: contenuti/focus-giuridico.md
+        - Investimenti: contenuti/cad.md
+        - Scadenze entro 1° semestre 2022: 
 
-    - Mappatura:
+    - Schede di lettura:
         - Percorsi di digitalizzazione in ambito comuale: contenuti/digitalizzazione-ambito-comunale.md
         - L'analisi dei procedimenti nel Piano della Performance: contenuti/esperienza-analisi.md
 
