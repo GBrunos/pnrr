@@ -4,17 +4,16 @@ site_url: https://gbrunos.github.io/pnrr/
 # site_description: tutto ciò che serve o quasi...sul PNRR!
 
 ## Repository
-# repo_name: pnrr
-repo_url: https://gbrunos.github.io/pnrr/
+# repo_name: 
+repo_url: https://github.com/GBrunos/pnrr
 edit_uri: edit/main/docs/ #disables edit button 
 
 # Copyright
-copyright: Gaetano Bruno | Dip. Funzione Pubblica, Unità di missione
+copyright: Gaetano Bruno (Dip. Funzione Pubblica, Unità di missione)
 
 
 ## Social Media
 extra:
-# manifest: "manifest.webmanifest" 
   disqus: mkdocs
   social:
     - icon: fontawesome/solid/file-pdf
