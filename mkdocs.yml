@@ -180,8 +180,8 @@ nav:
 
     - PNRR per la PA:
         - Riforme: contenuti/focus-giuridico.md
-        - Semplificazione: contenuti/focus-giuridico.md
-        - Lavoro pubblico: contenuti/focus-giuridico.md
+            - Semplificazione: contenuti/cad.md
+            - Lavoro pubblico: contenuti/focus-giuridico.md
         - Investimenti: contenuti/cad.md
  
     - Schede di lettura:
