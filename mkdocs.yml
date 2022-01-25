@@ -21,18 +21,18 @@ extra:
       name: Scarica il documento in formato PDF
     - icon: octicons/comment-discussion-16
       link: https://gbrunos.github.io/pnrr/discussions
-      name: Forum sul PNRR Dip.FP
+      name: Forum sul PNRR Dip. Funzione Pubblica
     - icon: fontawesome/brands/medium
       link: https://medium.com/@gaetanobruno
       name: account Medium
     - icon: fontawesome/brands/github
       link: https://https://github.com/GBrunos/pnrr
-      name: Repoisitory GitHub
+      name: Repository GitHub
     - icon: fontawesome/solid/envelope
       link: mailto:g.bruno@funzionepubblica.it
       name: mail to g.bruno@funzionepubblica.it
     - icon: fontawesome/solid/home
-      link: https://https://github.com/GBrunos/pnrr
+      link: https://gbrunos.github.io/pnrr/
       name: Home Page
   # analytics:
   # provider: google
@@ -50,7 +50,7 @@ theme:
     - navigation.top
     - navigation.tabs
     - navigation.indexes
-    - navigation.tabs.sticky   # visualizza il menù della navigation bar anche quando si va giù nella pagina (va in contrasto con il back-to-top di default)
+    - navigation.tabs.sticky   
     - navigation.tracking
     - navigation.sections      # prova (https://squidfunk.github.io/mkdocs-material/setup/setting-up-navigation/#navigation-sections)
     - navigation.expand        # prova (https://squidfunk.github.io/mkdocs-material/setup/setting-up-navigation/#navigation-expansion)
@@ -65,7 +65,7 @@ theme:
   palette:
     - scheme: default
       primary: white           # setting colori = https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/#configuration
-      accent: blue           # setting colori = https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/#configuration
+      accent: blue             # setting colori = https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/#configuration
       toggle:
         icon: material/toggle-switch
         name: Switch to dark mode
@@ -87,12 +87,12 @@ theme:
 plugins:
 - search
 - charts                                 # per grafici/charts con https://timvink.github.io/mkdocs-charts-plugin/
-# - git-revision-date-localized:         # per funzionare bisogna installare plugin relativo su gh-pages.yml 
-#    type: date
-#    locale: it
-#    fallback_to_build_date: false
-#    enable_creation_date: true
-#    enabled: true
+- git-revision-date-localized:           # per funzionare bisogna installare plugin relativo su gh-pages.yml (installato su questo progetto)
+    type: date
+    locale: it
+    fallback_to_build_date: false
+    enable_creation_date: true
+    enabled: true
 # - mkdocstrings
 # - autolinks
 # - macros
@@ -131,7 +131,7 @@ markdown_extensions:
         - name: mermaid
           class: mermaid
           format: !!python/name:mermaid2.fence_mermaid
-        - name: vegalite                                # per grafici/charts con https://timvink.github.io/mkdocs-charts-plugin/
+        - name: vegalite                                        # per grafici/charts con https://timvink.github.io/mkdocs-charts-plugin/
           class: vegalite
           format: !!python/name:mkdocs_charts_plugin.fences.fence_vegalite
 - pymdownx.tabbed:
@@ -175,7 +175,7 @@ extra_css:
 
 
 ## Page tree
-# ogni file .md corrisponde ad una pagina web
+# ogni file .md corrisponde ad una pagina web (il titolo della pagina .md deve essere uguale al titolo pagina riportato qui di sotto nel menù)
 nav:
     - Home: index.md
 
