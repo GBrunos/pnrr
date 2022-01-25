@@ -3,11 +3,7 @@ hide:
     - navigation
 ---
     
-Titolo del documento (stile “Title” o “Titolo”)
 
-  
-
-Inserisci un breve sommario del contenuto del documento usando la formattazione appropriata (“Subtitle” o “Sottotitolo” negli editor di testi).
 
 # 1. Istruzioni
 
