@@ -3,7 +3,7 @@
 
 
 # Piano Nazionale Ripresa e Resilienza
-<img src="https://github.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi/blob/main/docs/img/procedimenti-logo1.png?raw=true" width=350 /> 
+![](docs/img/PNRR.png)
 
 
 **Cosa è questo progetto di documentazione**
