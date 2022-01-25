@@ -1,5 +1,8 @@
 
-
+---
+hide:
+    - navigation
+---
     
 Titolo del documento (stile “Title” o “Titolo”)
 
