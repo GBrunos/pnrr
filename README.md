@@ -1,24 +1,19 @@
 ![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)
-<img alt="undefined" src="https://img.shields.io/github/last-commit/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi.svg?&label=ultimo_aggiornamento">
+<img alt="undefined" src="https://img.shields.io/github/last-commit/GBrunos/pnrr.svg?&label=ultimo_aggiornamento">
 
 
-# Mappatura e analisi dei procedimenti amministrativi
+# Piano Nazionale Ripresa e Resilienza
 <img src="https://github.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi/blob/main/docs/img/procedimenti-logo1.png?raw=true" width=350 /> 
 
+
 **Cosa è questo progetto di documentazione**
+Questo progetto di documentazione ha lo scopo di illustrare......................
 
-Questo progetto di documentazione ha lo scopo di illustrare un metodo e un set di strumenti semplici per avviare la mappatura e analisi dei procedimenti amministrativi gestiti da una Pubblica Amministrazione locale, con particolare riferimento all’ente "Comune".
+Vengono descritte .......................
 
-Realizzare un’analisi dei procedimenti in ottica di semplificazione, al fine di creare le pre-condizioni per la reingegnerizzazione degli stessi e la relativa digitalizzazione.
+## Progetto curato da Gaetano Bruno
 
-Questa guida è stata progettata seguendo il percorso operativo condotto dall’Amministrazione comunale di Palermo, impegnata da anni nella transizione alla modalità digitale, come prevista dal Codice dell’Amministrazione Digitale (decreto legislativo n. 82/2005 e successive modifiche).
-
-Vengono descritte le azioni realizzate dal personale comunale, che hanno portato alla redazione di un catalogo contenente le fasi operative e i metadati dei procedimenti, tracciando un passo importante per il Comune di Palermo, necessario alla corretta digitalizzazione dei procedimenti amministrativi.
-
-## Progetto curato da UO-TransizioneDigitaleComunePalermo 
-![](https://raw.githubusercontent.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi/main/docs/img/comune-palermo-innovazione.png) 
-
-Il progetto consultabile [**qui**](https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/)
+Il progetto è consultabile [**qui**](https://gbrunos.github.io/pnrr/)
 
 
 ## Come è costruito il progetto 
@@ -27,9 +22,9 @@ Il progetto consultabile [**qui**](https://uo-transizionedigitalecomunepalermo.g
 
 <img src="https://img.shields.io/badge/MarkDown-for_page_editing-blue.svg?style=popout"> Le pagine per inserire contenuti vengono redatte utilizzando il linguaggio [**MarkDown**](https://cirospat.github.io/cirospataro/risorse-conoscenza/markdown/) `.MD`
 
-[![gh-deploy](https://github.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi/actions/workflows/gh-deploy.yml/badge.svg)](https://github.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi/actions/workflows/gh-deploy.yml) Le pagine di questo progetto di documentazione vengono compilate su [**GitHub gh-pages**](https://squidfunk.github.io/mkdocs-material/publishing-your-site/#with-github-actions)
+[![gh-deploy](https://github.com/GBrunos/pnrr/actions/workflows/gh-deploy.yml/badge.svg)](https://github.com/GBrunos/pnrr/actions/workflows/gh-deploy.yml) Le pagine di questo progetto di documentazione vengono compilate su [**GitHub gh-pages**](https://squidfunk.github.io/mkdocs-material/publishing-your-site/#with-github-actions)
 
-<img src="https://img.shields.io/badge/GitHub-for_code_setting-blue.svg?style=popout&logo=GitHub"> Il link al codice sorgente di questo progetto è [**github.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi**](https://github.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi)
+<img src="https://img.shields.io/badge/GitHub-for_code_setting-blue.svg?style=popout&logo=GitHub"> Il link al codice sorgente di questo progetto è [**github.com/UO-TransizioneDigitaleComunePalermo/mappatura-procedimenti-amministrativi**](https://github.com/GBrunos/pnrr)
 
 
 ### Strumenti integrati nel progetto
@@ -47,4 +42,4 @@ Il progetto consultabile [**qui**](https://uo-transizionedigitalecomunepalermo.g
 
 
 ## Site map `XML`
-[https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/sitemap.xml](https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/sitemap.xml)
+[https://gbrunos.github.io/pnrr/sitemap.xml](https://gbrunos.github.io/pnrr/sitemap.xml)
