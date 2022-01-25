@@ -7,6 +7,7 @@
 
 
 **Cosa è questo progetto di documentazione**
+
 Questo progetto di documentazione ha lo scopo di illustrare......................
 
 Vengono descritte .......................
