@@ -177,7 +177,7 @@ extra_css:
 ## Page tree
 # ogni file .md corrisponde ad una pagina web (il titolo della pagina .md deve essere uguale al titolo pagina riportato qui di sotto nel menù)
 nav:
-    - Home: index.md
+    - 🏠 Home: index.md
 
     - PNRR per la PA:
         - Riforme:  
