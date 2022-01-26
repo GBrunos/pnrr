@@ -1,5 +1,4 @@
 # 1 Istruzioni
-
 Questo modello è disponibile in diversi formati, tutti scaricabili dal [repository GitHub docs-italia-template-conversione](https://github.com/italia/docs-italia-template-conversione), per aiutarti a pubblicare velocemente il tuo documento su Docs Italia.
 
 Puoi usare questo modello nel formato Docx o Odt per scrivere il tuo documento con un editor di testi come Microsoft Word o LibreOffice. Quando hai terminato, converti il documento nel formato di Docs Italia usando il convertitore online. Segui gli stili proposti per le varie formattazioni: questo ti permetterà di ridurre i problemi durante la conversione.
@@ -143,4 +142,4 @@ Tabella 1 Didascalia della tabella
 
 Puoi inserire note con l’apposito comando.
 
-
+<!--  stackedit_data:eyJoaXN0b3J5IjpbLTcwNzk5NjA3NV19  -->
