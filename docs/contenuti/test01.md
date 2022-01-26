@@ -1,6 +1,4 @@
-
-
-# 1. Istruzioni
+# 1 Istruzioni
 
 Questo modello è disponibile in diversi formati, tutti scaricabili dal [repository GitHub docs-italia-template-conversione](https://github.com/italia/docs-italia-template-conversione), per aiutarti a pubblicare velocemente il tuo documento su Docs Italia.
 
@@ -37,27 +35,27 @@ Per i titoli delle sezioni di terzo livello, usa lo stile “Heading 3” o “T
 Per i titoli delle sezioni di quarto livello, usa lo stile “Heading 4” o “Titolo 4”. Le sezioni di livello superiore al quarto sono sconsigliate per ragioni di leggibilità.
 
 
-# 3. Formattazione
+# 3 Formattazione
 
-## 3.1. Corsivo
+## 3.1 Corsivo
 
 Ecco due parti di frase in corsivo.
 
-## 3.2. Grassetto
+## 3.2 Grassetto
 
 Ecco due parti di frase in grassetto.
 
-## 3.3. Sottolineato
+## 3.3 Sottolineato
 
 Non usare la formattazione “sottolineato” nei testi: questa viene riservata per i collegamenti.
 
-## 3.4. Collegamenti
+## 3.4 Collegamenti
 
 Questo è [un URL](https://docs.italia.it/), un collegamento a una pagina esterna. Puoi crearne uno selezionando il testo e cliccando su “Inserisci > Collegamento” o “Inserisci > Link” nell’editor di testi. Non dimenticare di inserire il protocollo (https://) nel link.
 
 Ecco un indirizzo email: [scrivici](mailto:a@b.it). Aggiungi “mailto:” prima dell’indirizzo.
 
-## 3.5. Codice
+## 3.5 Codice
 
 Puoi inserire nel testo blocchi di codice, ma ricordati di formattarli come tale nel testo.
 
@@ -71,14 +69,12 @@ Puoi inserire nel testo blocchi di codice, ma ricordati di formattarli come tale
 
 # 4. Elenchi
 
-## 4.1. Elenchi puntati
+## 4.1 Elenchi puntati
 
 Usa l’apposita formattazione per creare un elenco puntato, come questo:
 
 -   uno;
-    
 -   due;
-    
 -   tre.
     
 
@@ -87,9 +83,7 @@ Usa l’apposita formattazione per creare un elenco puntato, come questo:
 Usa l’apposita formattazione per creare un elenco numerato, come questo:
 
 1.  primo;
-    
 2.  secondo;
-    
 3.  terzo.
     
 
@@ -113,7 +107,6 @@ Figura 1 Didascalia della figura
 
 Usa solo delle tabelle con una struttura regolare, come quella di seguito. Aggiungi una didascalia prima della tabella.
 
-  
 
 TITOLO 1
 
