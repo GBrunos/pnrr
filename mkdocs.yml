@@ -1,12 +1,12 @@
 ## Project information
 site_name: Docs PNRR - Dipartmento Funzione pubblica Unità di missione 
 site_url: https://gbrunos.github.io/pnrr/
-# site_description: tutto ciò che serve o quasi...sul PNRR!
+site_description: tutto ciò che serve o quasi...sul PNRR!
 
 ## Repository
 # repo_name: 
 repo_url: https://github.com/GBrunos/pnrr
-edit_uri: edit/main/docs/ #disables edit button 
+edit_uri: edit/main/docs/                    # disables edit button 
 
 # Copyright
 copyright: Gaetano Bruno (Dip. Funzione Pubblica, Unità di missione)
@@ -49,10 +49,10 @@ theme:
   features:
     - navigation.top
     - navigation.tabs
-    - navigation.indexes
+ #  - navigation.indexes
     - navigation.tabs.sticky   
     - navigation.tracking
-    - navigation.sections      # prova (https://squidfunk.github.io/mkdocs-material/setup/setting-up-navigation/#navigation-sections)
+ #  - navigation.sections      # prova (https://squidfunk.github.io/mkdocs-material/setup/setting-up-navigation/#navigation-sections)
     - navigation.expand        # prova (https://squidfunk.github.io/mkdocs-material/setup/setting-up-navigation/#navigation-expansion)
  #  - navigation.instant       # va in conflitto con i bei grafi di mergemaid
     - search.suggest
