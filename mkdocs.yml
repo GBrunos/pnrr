@@ -49,18 +49,18 @@ theme:
   features:
     - navigation.top
     - navigation.tabs
- #  - navigation.indexes
+    - navigation.indexes
     - navigation.tabs.sticky   
     - navigation.tracking
- #  - navigation.sections      # prova (https://squidfunk.github.io/mkdocs-material/setup/setting-up-navigation/#navigation-sections)
-    - navigation.expand        # prova (https://squidfunk.github.io/mkdocs-material/setup/setting-up-navigation/#navigation-expansion)
+    - navigation.sections      # riferimento= (https://squidfunk.github.io/mkdocs-material/setup/setting-up-navigation/#navigation-sections)
+    - navigation.expand        # riferimento= (https://squidfunk.github.io/mkdocs-material/setup/setting-up-navigation/#navigation-expansion)
  #  - navigation.instant       # va in conflitto con i bei grafi di mergemaid
     - search.suggest
     - search.highlight
     - search.share
-    - content.code.annotate       # riferimento https://squidfunk.github.io/mkdocs-material/reference/code-blocks/#adding-annotations
+    - content.code.annotate       # riferimento= https://squidfunk.github.io/mkdocs-material/reference/code-blocks/#adding-annotations
  #  - content.tabs.link           # riferimento= https://squidfunk.github.io/mkdocs-material/reference/content-tabs/#linked-content-tabs
- #  - toc.integrate
+ #  - toc.integrate               # riferimento= https://squidfunk.github.io/mkdocs-material/setup/setting-up-navigation/#integrated-table-of-contents
 
   palette:
     - scheme: default
@@ -91,8 +91,8 @@ plugins:
     type: date
     locale: it
     fallback_to_build_date: false
-    enable_creation_date: true
-    enabled: true
+    enable_creation_date: false
+#   enabled: true
 # - mkdocstrings
 # - autolinks
 # - macros
