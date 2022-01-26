@@ -187,11 +187,11 @@ nav:
         - Investimenti: contenuti/linkografia.md
  
     - Schede di lettura:
-        - Test01: contenuti/Test01.md
+        - Test01: contenuti/test01.md
         - L'analisi dei procedimenti nel Piano della Performance: contenuti/esperienza-analisi.md
 
     - Metadati:
-        - Test01: contenuti/Test01.md
+        - Test01: contenuti/test01.md
         - Metadati minimi di determinazioni e deliberazioni: contenuti/metadati-determinazione-deliberazione.md
         - Uno schema di metadati usato nella mappatura dei procedimenti: contenuti/schema-metadati.md
         - Un esperienza di mappatura con metadati: contenuti/esperienza-metadatazione.md
