@@ -182,7 +182,6 @@ nav:
     - PNRR per la PA:
         - Riforme:  
             - Semplificazione: contenuti/catalogo.md
-            - Semplificazione: contenuti/catalogo.md
             - Lavoro pubblico: contenuti/catalogo.md
         - Investimenti: contenuti/linkografia.md
  
@@ -193,8 +192,6 @@ nav:
     - Metadati:
         - Test01: contenuti/test01.md
         - Metadati minimi di determinazioni e deliberazioni: contenuti/metadati-determinazione-deliberazione.md
-        - Uno schema di metadati usato nella mappatura dei procedimenti: contenuti/schema-metadati.md
-        - Un esperienza di mappatura con metadati: contenuti/esperienza-metadatazione.md
 
     - Fasi operative: contenuti/fasi-operative.md
 
