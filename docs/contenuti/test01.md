@@ -8,6 +8,7 @@ In alternativa, puoi scrivere il tuo documento direttamente nel formato Rst di D
 
 Per maggiori informazioni, consulta i [passi da seguire per pubblicare un documento](https://docs.italia.it/come-pubblicare/) oppure la [Guida a Docs Italia](https://docs.italia.it/italia/docs-italia/docs-italia-guide/it/bozza/).
 
+
 # 2. Sezioni
 
 Organizza il tuo documento in sezioni. Crea i titoli delle sezioni del documento usando le apposite opzioni di stile offerte dall’editor di testi. In particolare, seleziona il titolo dei capitoli (sezioni di primo livello) e clicca su “Heading 1” o “Titolo 1” fra gli stili disponibili.
@@ -134,11 +135,12 @@ C3
 
 Tabella 1 Didascalia della tabella
 
+
 # 6. Altri suggerimenti
+
 
 ## 6.1. Note a piè di pagina
 
 Puoi inserire note con l’apposito comando.
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwNzk5NjA3NV19
--->
+
+
