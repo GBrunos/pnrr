@@ -1,9 +1,3 @@
----
-hide:
-  - navigation
----
-
-
 # 1. Istruzioni
 Questo modello è disponibile in diversi formati, tutti scaricabili dal [repository GitHub docs-italia-template-conversione](https://github.com/italia/docs-italia-template-conversione), per aiutarti a pubblicare velocemente il tuo documento su Docs Italia.
 
