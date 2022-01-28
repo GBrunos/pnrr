@@ -95,12 +95,12 @@ Figura 1 Didascalia della figura
 ## 5.2. Tabelle
 Usa solo delle tabelle con una struttura regolare, come quella di seguito. Aggiungi una didascalia prima della tabella.
 
-
-
 # 6. Altri suggerimenti
 
 
 ## 6.1. Note a piè di pagina
 Puoi inserire note con l’apposito comando.
+
+---
 
 <!--  stackedit_data:eyJoaXN0b3J5IjpbLTcwNzk5NjA3NV19  -->
