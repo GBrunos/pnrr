@@ -183,14 +183,17 @@ nav:
         - Riforme:  
             - Semplificazione: contenuti/catalogo.md
             - Lavoro pubblico: contenuti/catalogo.md
+            - Test2: contenuti/prova2.md
         - Investimenti: contenuti/linkografia.md
  
     - Schede di lettura:
         - Test1: contenuti/prova1.md
         - L'analisi dei procedimenti nel Piano della Performance: contenuti/esperienza-analisi.md
+        - Test2: contenuti/prova2.md
 
     - Metadati:
         - Test1: contenuti/prova1.md
+        - Test2: contenuti/prova2.md
         - Metadati minimi di determinazioni e deliberazioni: contenuti/metadati-determinazione-deliberazione.md
 
     - Fasi operative: contenuti/fasi-operative.md
