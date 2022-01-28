@@ -1,9 +1,3 @@
----
-hide:
-  - navigation
----
-
-
 # Chi siamo e perchè abbiamo documentato questo progetto :material-account-multiple-check-outline:
 
 ## Chi siamo
