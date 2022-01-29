@@ -1,7 +1,7 @@
 # esempio di titolo
 esempio titolo
 
-## esempi osotto titolo
+## esempio sotto titolo
 sotto titolo
 
 ### esempio sotto sotto titolo
