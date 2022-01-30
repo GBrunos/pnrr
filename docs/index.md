@@ -3,9 +3,9 @@ hide:
   - navigation
   - toc
 ---
+<!--
 
-
-<img src="https://raw.githubusercontent.com/GBrunos/pnrr/main/docs/img/PNRR.png">
+<img src="https://raw.githubusercontent.com/GBrunos/pnrr/main/docs/img/PNRR.png"> -->
 
 <!--**`Piano Nazionale Ripresa e Resilienza`** -->
 
