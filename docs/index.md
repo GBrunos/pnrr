@@ -4,10 +4,10 @@ hide:
   - toc
 ---
 
-# PNRR 
+
 <img src="https://raw.githubusercontent.com/GBrunos/pnrr/main/docs/img/PNRR.png">
 
-**`Piano Nazionale Ripresa e Resilienza`**
+<!--**`Piano Nazionale Ripresa e Resilienza`** -->
 
 
 <!--
@@ -21,13 +21,7 @@ Realizzare un’analisi dei procedimenti in ottica di **semplificazione**, al fi
 Il **processo di lavoro** :material-transit-connection-variant: - svolto in ordine temporale - è raffigurato nel seguente schema:
 ``` mermaid
 graph TD
-A([l'analisi dei procedimenti è stabilita come obiettivo nel Piano Performance!]) --> <!--|direttive ai dirigenti| B([redazione schede dei 1- metadati e 2- delle fasi operative])
-B -->|compilazione schede da parte dei responsabili procedimenti| C([creazione database procedimenti: mappatura]) 
-C -->|check da parte di un ufficio centrale| D([check database procedimenti]) 
-D -->|a cura di un ufficio centrale che colleziona le schede| E([creazione catalogo procedimenti]) 
-E -->|a cura di un ufficio centrale per divulgazione ad uffici| F([condivisione online catalogo procedimenti])
-style A fill:#fc5b5b,stroke:#333,stroke-width:2px  
--->
+A([l'analisi dei procedimenti è stabilita come obiettivo nel Piano Performance!]) -->
 <!-- era fill:#f9f -->
 
 <!--## Destinatari del progetto :material-target-account:
