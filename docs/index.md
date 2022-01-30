@@ -30,7 +30,7 @@ style A fill:#fc5b5b,stroke:#333,stroke-width:2px
 -->
 <!-- era fill:#f9f -->
 
-## Destinatari del progetto :material-target-account:
+<!--## Destinatari del progetto :material-target-account:
 I destinatari dei contenuti del progetto sono amministratori, dirigenti e dipendenti degli enti comunali.
 
 Questo progetto si pone l'obiettivo di facilitare :material-hand-extended: e documentare :material-file-document-outline: il percorso operativo che il personale delle amministrazioni pubbliche deve avviare e condurre per ..................
