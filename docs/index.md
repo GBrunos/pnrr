@@ -10,7 +10,7 @@ hide:
 **`Piano Nazionale Ripresa e Resilienza`**
 
 
-
+<!--
 ## Cosa è questo progetto di documentazione :material-file-document-multiple-outline:
 Questo progetto di documentazione ha lo scopo di illustrare un metodo e un set di strumenti semplici per avviare la mappatura e analisi dei **procedimenti amministrativi** gestiti da una Pubblica Amministrazione locale, con particolare riferimento all’ente "**Comune**".
 
@@ -43,5 +43,5 @@ A tal proposito è stato predisposto un apposito [**Forum**](https://github.com/
 
 [Vai al forum :material-forum:](https://github.com/GBrunos/pnrr/discussions){ .md-button .md-button--primary }
 
-
+-->
 
