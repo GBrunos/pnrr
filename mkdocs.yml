@@ -183,9 +183,9 @@ nav:
         - Lavoro pubblico: contenuti/catalogo.md
  
     - Investimenti:
-        - Test2: contenuti/linkografia.md
-
-    - Docs di lavoro:
         - Test1: contenuti/prova1.md
         - Test2: contenuti/prova2.md
 
+    - Docs di lavoro:
+        - Test2: contenuti/linkografia.md
+ 
