@@ -3,39 +3,19 @@ hide:
   - navigation
   - toc
 ---
-<!--
 
-<img src="https://raw.githubusercontent.com/GBrunos/pnrr/main/docs/img/PNRR.png"> -->
+# Il PNRR di Funzione pubblica
 
-<!--**`Piano Nazionale Ripresa e Resilienza`** -->
+Il 30 aprile 2021 il [PNRR dell'Italia](https://www.camera.it/temiap/2021/06/25/OCD177-4986.pdf) è stato trasmesso dal Governo alla Commissione europea (e, subito dopo, al Parlamento italiano).
 
+Il 22 giugno 2021 la Commissione europea ha pubblicato la proposta di decisione di esecuzione del Consiglio, fornendo una valutazione globalmente positiva del PNRR italiano. La proposta è accompagnata da una dettagliata analisi del Piano (documento di lavoro della Commissione).
 
-<!--
-## Cosa è questo progetto di documentazione :material-file-document-multiple-outline:
-Questo progetto di documentazione ha lo scopo di illustrare un metodo e un set di strumenti semplici per avviare la mappatura e analisi dei **procedimenti amministrativi** gestiti da una Pubblica Amministrazione locale, con particolare riferimento all’ente "**Comune**".
+Il 13 luglio 2021 il PNRR dell'Italia è stato definitivamente approvato con [Decisione di esecuzione del Consiglio](https://data.consilium.europa.eu/doc/document/ST-10160-2021-INIT/it/pdf), che  ha recepito la proposta della Commissione europea. La Decisione contiene un [allegato](https://www.camera.it/temiap/2021/07/13/OCD177-5010.pdf) con cui vengono definiti, in relazione a ciascun investimento e riforma, precisi obiettivi e traguardi, cadenzati temporalmente, al cui conseguimento si lega l'assegnazione delle risorse su base semestrale.
 
-Realizzare un’analisi dei procedimenti in ottica di **semplificazione**, al fine di creare le pre-condizioni per la **reingegnerizzazione** degli stessi e la relativa **digitalizzazione**.
+Il 13 agosto 2021 la Commissione europea, a seguito della valutazione positiva del PNRR, ha erogato all'Italia 24,9 miliardi a titolo di prefinanziamento  (di cui 8,957 miliardi a fondo perduto e per 15,937 miliardi di prestiti), pari al 13% dell'importo totale stanziato a favore del Paese.
 
+Il 23 dicembre 2021 il Governo ha presentato al Parlamento (l'esame è in corso) la prima [Relazione sullo stato di attuazione del Piano Nazionale di Ripresa e Resilienza](https://italiadomani.gov.it/content/dam/sogei-ng/documenti/Relazione%20al%20Parlamento%20sullo%20stato%20di%20attuazione%20del%20Piano%20Nazionale%20di%20Ripresa%20e%20Resilienza.pdf).
 
+Il 28 dicembre 2021 il Commissario europeo per l'economia Paolo Gentiloni e il Ministro dell'Economia e delle Finanze Daniele Franco hanno siglato gli [Operational Arrangements](https://ec.europa.eu/info/files/operational-arrangements-between-commission-and-italy_en) (OA) relativi al PNRR dell'Italia, con i quali sono stabiliti i meccanismi di verifica periodica (validi fino al 2026) relativi al conseguimento dei traguardi ed obiettivi (Milestone e Target) necessari per il riconoscimento delle rate di rimborso semestrali delle risorse PNRR in favore dell'Italia.
 
-Il **processo di lavoro** :material-transit-connection-variant: - svolto in ordine temporale - è raffigurato nel seguente schema:
-``` mermaid
-graph TD
-A([l'analisi dei procedimenti è stabilita come obiettivo nel Piano Performance!]) -->
-<!-- era fill:#f9f -->
-
-<!--## Destinatari del progetto :material-target-account:
-I destinatari dei contenuti del progetto sono amministratori, dirigenti e dipendenti degli enti comunali.
-
-Questo progetto si pone l'obiettivo di facilitare :material-hand-extended: e documentare :material-file-document-outline: il percorso operativo che il personale delle amministrazioni pubbliche deve avviare e condurre per ..................
-
-
-## Forum per l'interazione e la propositività :octicons-comment-discussion-16:
-Nella fase di creazione di questo documento abbiamo pensato che interagire e confrontarsi con altre persone (colleghe/i di altre Pubbliche Amministrazioni e non) sia una delle cose più importanti da fare se si vuole migliorare costanetemente il modo di lavorare negli uffici pubblici. 
-
-A tal proposito è stato predisposto un apposito [**Forum**](https://github.com/GBrunos/pnrr/discussions) :material-forum-outline: sulla piattaforma GitHub :material-github:, che ospita il codice sorgente di questo progetto di documentazione, nel quale è possibile fare domande, ma anche proporre idee e miglioramenti al flusso di lavoro per la mappatura e analisi dei procedimenti amministrativi. Un luogo di interazione. 
-
-[Vai al forum :material-forum:](https://github.com/GBrunos/pnrr/discussions){ .md-button .md-button--primary }
-
--->
-
+Il 30 dicembre 2021 il Governo ha inviato alla Commissione Europea la richiesta relativa al pagamento della prima rata dei fondi del PNRR (relativa al secondo semestre 2021).
