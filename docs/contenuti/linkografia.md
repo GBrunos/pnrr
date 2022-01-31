@@ -8,7 +8,7 @@ hide:
 
 Di seguito si riportano i link ai principali **documenti** e **`Linee Guida`**, redatte dall'[**Agenzia per l'Italia Digitale**](https://www.agid.gov.it/) e dal [**Ministero per l'Innovazione Tecnologica e la digitalizzazione**](https://innovazione.gov.it/), per la digitalizzazione dei procedimenti amministrativi e dei relativi servizi pubblici.
 
-- [CAD - Codice dell’Amministrazione Digitale](https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2018-09-28/index.html)
+- [Regolamento (UE) 2021/241 che istituisce il dispositivo per la ripresa e la resilienza](https://eur-lex.europa.eu/legal-content/IT/TXT/HTML/?uri=CELEX:32021R0241&from=IT)
 - [Piano Triennale per l’informatica nella Pubblica Amministrazione 2020 - 2022](https://docs.italia.it/italia/piano-triennale-ict/pianotriennale-ict-doc/it/2020-2022/index.html)
 - [Linee guida su acquisizione e riuso di software per le PA](https://docs.italia.it/italia/developers-italia/lg-acquisizione-e-riuso-software-per-pa-docs/it/bozza/index.html)
 - [Catalogo del software open source a disposizione della PA (AGID + Team Trasformazione Digitale)](https://developers.italia.it/it/software)
