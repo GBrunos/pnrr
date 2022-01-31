@@ -7,7 +7,7 @@ hide:
 # Documenti di lavoro:
 
 - [Regolamento (UE) 2021/241 che istituisce il dispositivo per la ripresa e la resilienza](https://eur-lex.europa.eu/legal-content/IT/TXT/HTML/?uri=CELEX:32021R0241&from=IT)
-- [Determina Organizzazione della Unità di missione relativa agli interventi del PNRR assegnati alla responsabilità del  Ministro per la pubblica amministrazione](https://www.gazzettaufficiale.it/eli/id/2021/10/26/21A06283/sg)
+- [Organizzazione della Unità di missione relativa agli interventi del PNRR assegnati alla responsabilità del  Ministro per la pubblica amministrazione](https://www.gazzettaufficiale.it/eli/id/2021/10/26/21A06283/sg)
 - [Linee guida su acquisizione e riuso di software per le PA](https://docs.italia.it/italia/developers-italia/lg-acquisizione-e-riuso-software-per-pa-docs/it/bozza/index.html)
 - [Catalogo del software open source a disposizione della PA (AGID + Team Trasformazione Digitale)](https://developers.italia.it/it/software)
 - [Linee guida AGID per lo sviluppo del software sicuro nella PA](https://www.agid.gov.it/it/sicurezza/cert-pa/linee-guida-sviluppo-del-software-sicuro)
