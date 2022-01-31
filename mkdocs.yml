@@ -178,32 +178,14 @@ extra_css:
 # ogni file .md corrisponde ad una pagina web (il titolo della pagina .md deve essere uguale al titolo pagina riportato qui di sotto nel menù)
 nav:
     
-    - PNRR per la PA:
-        - Riforme:  
-            - Semplificazione: contenuti/catalogo.md
-            - Lavoro pubblico: contenuti/catalogo.md
-            - Test2: contenuti/prova2.md
-        - Investimenti: contenuti/linkografia.md
+    - Riforme:
+        - Semplificazione: contenuti/catalogo.md
+        - Lavoro pubblico: contenuti/catalogo.md
  
-    - Schede di lettura:
-        - Test1: contenuti/prova1.md
-        - L'analisi dei procedimenti nel Piano della Performance: contenuti/esperienza-analisi.md
-        - Test2: contenuti/prova2.md
+    - Investimenti:
+        - Test2: contenuti/linkografia.md
 
-    - Metadati:
+    - Docs di lavoro:
         - Test1: contenuti/prova1.md
         - Test2: contenuti/prova2.md
-        - Metadati minimi di determinazioni e deliberazioni: contenuti/metadati-determinazione-deliberazione.md
-
-    - Fasi operative: contenuti/fasi-operative.md
-
-    - Reingegnerizzazione: contenuti/intro.md
-
-    - Linkografia: contenuti/linkografia.md
-
-    - Redazione: contenuti/PubblicaAmministrazione.md
-
-    - Strumenti: contenuti/strumenti.md
-
-    - Forum →: https://gbrunos.github.io/pnrr/discussions
 
