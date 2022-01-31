@@ -4,9 +4,7 @@ hide:
   - toc
 ---
 
-# Documenti essenziali per la digitalizzazione di procedimenti e servizi :octicons-link-external-16:
-
-Di seguito si riportano i link ai principali **documenti** e **`Linee Guida`**, redatte dall'[**Agenzia per l'Italia Digitale**](https://www.agid.gov.it/) e dal [**Ministero per l'Innovazione Tecnologica e la digitalizzazione**](https://innovazione.gov.it/), per la digitalizzazione dei procedimenti amministrativi e dei relativi servizi pubblici.
+# Documenti di lavoro:
 
 - [Regolamento (UE) 2021/241 che istituisce il dispositivo per la ripresa e la resilienza](https://eur-lex.europa.eu/legal-content/IT/TXT/HTML/?uri=CELEX:32021R0241&from=IT)
 - [Piano Triennale per l’informatica nella Pubblica Amministrazione 2020 - 2022](https://docs.italia.it/italia/piano-triennale-ict/pianotriennale-ict-doc/it/2020-2022/index.html)
