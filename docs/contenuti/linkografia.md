@@ -14,5 +14,3 @@ hide:
 ## - [Piano di archvio](https://governoit.sharepoint.com/:f:/s/CoordinamentoGestione/EiYENJAajVdNtnksbCA-iQYB0Uh_aGS1tpw6ZWHO8nfpug?e=Idj21r)
 
 ## - [SiGeCo PON GOV](https://governoit.sharepoint.com/:f:/s/CoordinamentoGestione/Ein6cEkMT0dNr-naLkRbjYUBuk6vs9J2sBwwBYHtRFlnCQ?e=bAPXsv)
-
-## - [Decreti di ammissione e docs vari](https://drive.google.com/drive/folders/10iCPy820OYbiQNZmJk3JcKT7cv65kyry?usp=sharing)
